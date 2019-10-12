@@ -1,3 +1,5 @@
+//Cloned from GitHub to keep in sync.
+
 // Set variables
 var gamePattern = [];
 var userClickedPattern = [];
